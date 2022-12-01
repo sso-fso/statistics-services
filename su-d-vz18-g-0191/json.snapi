@@ -1,7 +1,0 @@
-main() =
-    let 
-        output = Http.Read("https://dam-api.bfs.admin.ch/hub/api/dam/assets/41542/master")
-    in
-        String.Decode(output.data, "utf-8")
-
-main()
