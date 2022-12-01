@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.9.json
+raw: 0.9
+endpoint: GET
+metadata:
+  title: Mitlödi: Bâtiments, logements et conditions d'habitation_x000D_
+  description: Mitlödi: Bâtiments, logements et conditions d'habitation_x000D_
+  author: RAW Labs
+  contact:
+    name: RAW Labs
+    email: contact@raw-labs.com
+    url: https://raw-labs.com/
+  license:
+    name: GNU Lesser General Public License
+    url: https://www.gnu.org/licenses/lgpl-3.0.en.html
+  tags:
+    - 09
+    - 09.02
+    - 09.03
+    
+code: snapi
+declaration: main
+codeFile: json.snapi
+format: json
+security:
+  public: true
+computeClass: normal
+enabled: true
+refreshSeconds: 1
