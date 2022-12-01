@@ -13,9 +13,9 @@ metadata:
     name: GNU Lesser General Public License
     url: https://www.gnu.org/licenses/lgpl-3.0.en.html
   tags:
-    - 09
-    - 09.02
-    - 09.03
+    - "09"
+    - "09.02"
+    - "09.03"
     
 code: snapi
 declaration: main
