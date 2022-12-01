@@ -2,8 +2,8 @@
 raw: 0.9
 endpoint: GET
 metadata:
-  title: "Alvaneu: Gebäude, Wohnungen und Wohnverhältnisse_x000D_"
-  description: "Alvaneu: Gebäude, Wohnungen und Wohnverhältnisse_x000D_"
+  title: Alvaneu: Gebäude, Wohnungen und Wohnverhältnisse_x000D_
+  description: Alvaneu: Gebäude, Wohnungen und Wohnverhältnisse_x000D_
   author: RAW Labs
   contact:
     name: RAW Labs
