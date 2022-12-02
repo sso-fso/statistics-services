@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.9.json
+raw: 0.9
+endpoint: GET
+metadata:
+  title: "Figli celibi/nubili dai 15 ai 29 anni che vivono in economie domestiche familiari, per classi d'età, secondo la loro formazione in corso e la categoria socioprofessionale della persona di riferimento"
+  description: "Figli celibi/nubili dai 15 ai 29 anni che vivono in economie domestiche familiari, per classi d'età, secondo la loro formazione in corso e la categoria socioprofessionale della persona di riferimento"
+  author: RAW Labs
+  contact:
+    name: RAW Labs
+    email: contact@raw-labs.com
+    url: https://raw-labs.com/
+  license:
+    name: GNU Lesser General Public License
+    url: https://www.gnu.org/licenses/lgpl-3.0.en.html
+  tags:
+    - "01"
+    
+code: snapi
+declaration: main
+codeFile: excel.snapi
+format: json
+security:
+  public: true
+computeClass: normal
+enabled: true
+refreshSeconds: 1
